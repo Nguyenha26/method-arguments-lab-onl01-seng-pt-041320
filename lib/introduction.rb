@@ -12,4 +12,4 @@ def introduction(name, language)
   
 end
 
-introduction("Nguyen, Ruby)
+introduction("Nguyen", "Ruby")
